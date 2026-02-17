@@ -1,4 +1,4 @@
 # git
-Create Repo Nd Clone It
+Create Repo And Clone It
 
 ## Project Notes
